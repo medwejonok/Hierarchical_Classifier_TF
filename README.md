@@ -9,6 +9,8 @@
 3. Сравнил метрики у каждой модели.
 4. Написал удобный интерфейс с API на Flask
 
+Ссылка на Flask приложение (python 3.11.5) - https://drive.google.com/file/d/1rrJkCRYLvZrYxizUwtIb72bcZJG455_T/view?usp=sharing
+
 ## Обработка данных
 1. Препроцессинг текста:
 - Нижний регистр
@@ -163,3 +165,4 @@ Cat3:
 WEB интерфейс реализовал на Flask.
 
 <img src='temp/web.png'>
+Ссылка на Flask приложение (python 3.11.5) - https://drive.google.com/file/d/1rrJkCRYLvZrYxizUwtIb72bcZJG455_T/view?usp=sharing
